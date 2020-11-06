@@ -11,7 +11,7 @@ This assignment is due Monday, November 16 at 12pm (noon) Chicago time.
 
 ### Grading
 
-There is no autograder and little code.  Points will be based on correctness and showing your work.  
+There is no autograder and little code.  Points will be based on providing the requested files, correctness, and showing your work. 
 
 ## Problem 0 - Some computations (40 points)
 
