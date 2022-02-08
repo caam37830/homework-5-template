@@ -7,7 +7,7 @@ Put your written answers for Problem 0 in a file `answers.md`.  You don't need t
 ## Important Information
 
 ### Due Date
-This assignment is due Friday, February 25 at 5pm Chicago time.
+This assignment is due Friday, February 25 at 11:59pm (midnight) Chicago time.
 
 ### Grading
 
