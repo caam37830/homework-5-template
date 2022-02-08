@@ -7,11 +7,11 @@ Put your written answers for Problem 0 in a file `answers.md`.  You don't need t
 ## Important Information
 
 ### Due Date
-This assignment is due Monday, November 16 at 12pm (noon) Chicago time.
+This assignment is due Friday, February 25 at 5pm Chicago time.
 
 ### Grading
 
-There is no autograder and little code.  Points will be based on providing the requested files, correctness, and showing your work. 
+There is no autograder and little code.  Points will be based on providing the requested files, correctness, and showing your work.
 
 ## Problem 0 - Some computations (40 points)
 
