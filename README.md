@@ -1,6 +1,6 @@
 # Homework 5
 
-This is a short homework with almost no code, and mostly review.  The intent is to give you extra time for your midterm checkpoint.  Because of the midterm checkpoint, the due date is extended to Monday, November 16.  However you may find working through this assignment is complementary to the midterm checkpoint.
+This is a short homework with almost no code, and mostly review.  The intent is to give you extra time for your midterm checkpoint.  Because of the midterm checkpoint, the due date is extended to Friday, February 25.  However you may find working through this assignment is complementary to the midterm checkpoint.
 
 Put your written answers for Problem 0 in a file `answers.md`.  You don't need to write or submit any code for Problem 0.  You don't need to include a written answer for Problem 1 (just the requested files).
 
